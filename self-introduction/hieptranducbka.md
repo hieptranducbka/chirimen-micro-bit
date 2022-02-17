@@ -2,7 +2,7 @@
 - 名前: Tran Duc Hiep
 - 所属: サーキットデザイン
 - アカウント名: hieptranducbka
-## きょうのタスク
+## 今日のタスク
 - [ ] GitHub アカウントを作成する
 - [ ] ファイルを追加、編集する
 - [ ] Pull Requestを作成する
